@@ -1,0 +1,34 @@
+        div{
+        width: 100px;
+        height: 90px;
+        background-color: #65FEFE;
+        position: absolute;
+        border: solid;
+        border-color: #4D0084;
+        }
+        .d1{
+        top: 40px;
+        left: 40px;
+        z-index: 5;
+        }
+        #d1{
+        top: 60px;
+        left: 120px;
+        z-index: 4
+        }
+        .d2{
+        top: 80px;
+        left: 200px;
+        z-index: 3;
+        }
+        #d2
+        {
+        top: 100px;
+        left: 280px;
+        z-index: 2;
+        }
+        .d3{
+        top: 120px;
+        left: 360px;
+        z-index: 1;
+        }
